@@ -4,8 +4,8 @@
 
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/AdviceGenerator-React)
-- Live Site URL: [Live Site](https://advice-generator-reacttsx.netlify.app/)
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/AdviceGenerator-Svelte)
+- Live Site URL: [Live Site](https://advice-generator-svelte.netlify.app/)
 
 # Built With
 
